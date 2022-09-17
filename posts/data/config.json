@@ -1,0 +1,18 @@
+
+{
+    "config": {
+        "username": "只要你喜欢福禄寿",
+        "avatarPath": 
+"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp9.itc.cn%2Fq_70%2Fimages03%2F20200910%2F479075148b23483b983bde8b371c44ca.jpeg&refer=http%3A%2F%2Fp9.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1662133178&t=d8a651f465198dface7285473a60beb6",
+        "description": "福禄寿就常伴你左右",
+        "blogTitle": "floruitshow-fun",
+        "blogStartYear": 2022
+    },
+    "contacts": [  
+        {
+            "name": "zuck",
+            "value": "1105475412@qq.com",
+            "link": "zuck.fun"
+        }
+    ]
+}
